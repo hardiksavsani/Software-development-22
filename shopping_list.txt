@@ -1,0 +1,13 @@
+In order to share a project through GitHub,
+a repository (
+    or simply a repo
+) has to be created for it,
+and it has to be linked to a local Git project.
+After a remote repository has been added to a project,
+    information can be shared between them.In consequence,
+    two concurrent versions of the project will exist: the remote in GitHub
+    and a local version on a specific computer.This shows how GitHub functions as a backup storage.
+    When the state of a project is updated to its remote in GitHub,
+    it can be accessed
+from anywhere with internet.Thus the project can be continued even if its local version is destroyed
+    or damaged.You can create a repository to GitHub by pressing the button on the upper right corner:
