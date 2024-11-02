@@ -7,3 +7,13 @@ Untracked files:
         git_practice.txt
 
 nothing added to commit but untracked files present (use "git add" to track)
+
+some are very important text in this page
+
+From github.com:
+ * branch            main     -> FETCH_HEAD
+Updating 061ca96..6920cd0
+error: Your local changes to the following files would be overwritten by merge:
+	git_practice.txt
+Please, commit your changes or stash them before you can merge.
+Aborting
